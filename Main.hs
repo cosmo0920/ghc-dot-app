@@ -130,10 +130,10 @@ latestGhc = Release
 
 latestStack :: Release
 latestStack = Release
-  { releaseVersion = "1.1.2"
-  , releaseUrl     = "https://github.com/commercialhaskell/stack/releases/download/v1.1.2/stack-1.1.2-osx-x86_64.tar.gz"
-  , releaseSha1    = "6da85ae178445c85c18458ea1533d23ee653cac6"
-  , releaseSize    = 10737829
+  { releaseVersion = "1.2.0"
+  , releaseUrl     = "https://github.com/commercialhaskell/stack/releases/download/v1.2.0/stack-1.2.0-osx-x86_64.tar.gz"
+  , releaseSha1    = "7d715c2487a6206708c7d1f513517cbf940e4338"
+  , releaseSize    = 12216395
   }
 
 latestReleases :: Releases
