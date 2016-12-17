@@ -122,10 +122,10 @@ defRule = Rule
 
 latestGhc :: Release
 latestGhc = Release
-  { releaseVersion = "8.0.1"
-  , releaseUrl     = "http://downloads.haskell.org/~ghc/8.0.1/ghc-8.0.1-x86_64-apple-darwin.tar.xz"
-  , releaseSha1    = "e7a1c558a095afbc4fb514256be940ddb0f23a29"
-  , releaseSize    = 118496652
+  { releaseVersion = "8.0.1.20161213"
+  , releaseUrl     = "http://downloads.haskell.org/~ghc/8.0.2-rc2/ghc-8.0.1.20161213-x86_64-apple-darwin.tar.xz"
+  , releaseSha1    = "d87048467786a7b9667aef0a78d7ffd8779425b2"
+  , releaseSize    = 113359104
   }
 
 latestStack :: Release
